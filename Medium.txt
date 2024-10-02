@@ -1,0 +1,39 @@
+.NET Geliþtirme Ortamý Nasýl Hazýrlanýr? Visual Studio ve Visual Studio Code Kullanýmý
+
+.NET Geliþtirme Ortamýnýn Hazýrlanmasý ve Popüler Araçlarýn Kullanýmý: Visual Studio ve Visual Studio Code
+
+Giriþ
+Düþün ki sabah uyandýn, akýllý telefonunu eline aldýn ve güne baþlamadan önce birkaç mesaj kontrol ettin. Ardýndan iþe gitmek için navigasyonu açtýn ve yolda zaman kaybetmemek için en iyi rotayý buldun. Ýþ yerine vardýðýnda bilgisayarýný açtýn ve gün boyunca kullandýðýn uygulamalardan biriyle çalýþmaya baþladýn. Ýþte bu senaryonun ardýnda çalýþan yazýlýmlar var ve büyük ihtimalle çoðu .NET ile geliþtirilmiþ.
+
+Her gün farkýnda olmadan hayatýmýzý kolaylaþtýran bu uygulamalarýn arkasýnda, yazýlým geliþtiricilerin kullandýðý güçlü platformlar bulunur. .NET, web sitelerinden mobil uygulamalara, masaüstü yazýlýmlarýndan bulut tabanlý çözümlere kadar geniþ bir yelpazede tercih edilen bir platformdur. Bu makalede, .NET platformunun nasýl çalýþtýðýný ve geliþtirme ortamýnýn nasýl hazýrlandýðýný adým adým inceleyeceðiz.
+
+.NET Nedir?
+.NET, Microsoft tarafýndan geliþtirilen bir yazýlým geliþtirme platformudur. Farklý uygulama türlerini — web, masaüstü, mobil, bulut ve oyunlar — geliþtirmek için kullanýlýr. Hem Windows hem de macOS ve Linux gibi çapraz platformlarda çalýþabilen .NET, C#, Visual Basic, Visual Studio Code gibi dilleri destekler ve geniþ bir yelpazede yazýlým çözümleri sunar.
+
+Kýsacasý, .NET, yazýlým geliþtiricilerin hýzlý ve güvenilir uygulamalar üretmesi için güçlü ve esnek bir araçtýr.
+
+Visual Studio Code: Özellikleri, Çalýþma Prensibi ve Ücret Durumu
+Visual Studio Code Nedir, Nasýl Çalýþýr ve Ücretli mi?
+Visual Studio Code, Microsoft tarafýndan geliþtirilen hafif, hýzlý ve platform baðýmsýz bir kod düzenleyicisidir. VS Code olarak da bilinen bu araç, özellikle küçük projeler ya da hýzlý düzenleme iþleri için idealdir ve birçok farklý programlama dilinde çalýþabilir. En büyük avantajlarýndan biri, hem Windows, macOS hem de Linux iþletim sistemlerinde çalýþabilmesidir.
+
+Nasýl Çalýþýr?
+Visual Studio Code, eklenti tabanlý bir yapýya sahiptir. Bu sayede sadece ihtiyacýn olan özellikleri ekleyerek çalýþma ortamýný kiþiselleþtirebilirsin. Örneðin, C# gibi .NET dillerinde geliþtirme yapmak için, ilgili eklentiyi indirerek .NET projelerinde çalýþmaya baþlayabilirsin. VS Code ayrýca terminal ve komut satýrý entegrasyonu ile hýzlýca projeleri çalýþtýrmana ve yönetmene imkan tanýr.
+
+Kod Düzenleme: VS Code, kod yazarken otomatik tamamlama, hata gösterme ve kodu biçimlendirme gibi özelliklerle hýzlý ve verimli bir çalýþma ortamý sunar.
+
+Ücretli mi?
+Visual Studio Code, tamamen ücretsiz bir kod editörüdür. Microsoft, bu aracý açýk kaynak olarak sunmaktadýr, bu yüzden herhangi bir lisans ücreti ödemen gerekmez. Eklentiler ve dil desteði de ücretsiz olarak indirilebilir ve kullanýlabilir.
+
+Visual Studio Nedir, Nasýl Çalýþýr ve Ücretli mi?
+Visual Studio, Microsoft tarafýndan geliþtirilen tam kapsamlý bir entegre geliþtirme ortamý (IDE)’dir. Visual Studio, özellikle büyük ölçekli projeler, kurumsal yazýlýmlar ve çok katmanlý uygulamalarýn geliþtirilmesi için tercih edilir. Geliþtiricilere kod yazma, hata ayýklama, test etme ve proje yönetimi gibi tüm süreçleri tek bir platformda gerçekleþtirme imkaný sunar.
+
+Nasýl Çalýþýr?
+Visual Studio, .NET Framework, .NET Core ve .NET 5/6 gibi farklý .NET teknolojilerini destekler. Kullanýcý dostu arayüzü ile çeþitli þablonlardan hýzlýca projeler oluþturabilir, kodunuzu yazarken otomatik tamamlama (IntelliSense) ve hata ayýklama araçlarýný kullanabilirsin. Ayrýca, çok sayýda hazýr proje þablonu ve geniþletilebilir araçlarý ile büyük projeleri kolayca yönetebilirsin.
+
+Ücretli mi?
+Visual Studio’nun hem ücretsiz hem de ücretli sürümleri mevcuttur. Visual Studio Community sürümü bireysel geliþtiriciler, küçük ekipler ve açýk kaynak projeler için tamamen ücretsizdir. Visual Studio Professional ve Visual Studio Enterprise sürümleri ise büyük projeler ve kurumsal kullaným için ücretli lisanslarla sunulmaktadýr.
+
+.NET ve Geliþtirme Araçlarýnýn Önemi
+Sonuç olarak, .NET hem küçük çaplý hem de büyük çaplý projelerde kullanýlan güçlü ve esnek bir platformdur. Ýster web, ister mobil, ister masaüstü uygulamasý geliþtiriyor olun, .NET sunduðu geniþ araç yelpazesi ve çoklu platform desteði ile geliþtiricilere büyük kolaylýk saðlar.
+
+Visual Studio ve Visual Studio Code, .NET projelerini geliþtirmek için farklý ihtiyaçlara hitap eden iki güçlü araçtýr. Büyük ölçekli projelerde Visual Studio, küçük ve hýzlý düzenlemeler ya da çapraz platform projelerinde ise Visual Studio Code tercih edilerek, her iki aracýn sunduðu güçlü özellikler .NET dünyasýnda geniþ bir kullaným imkaný saðlar.
